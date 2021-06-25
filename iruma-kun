@@ -1,113 +1,113 @@
 {
-  "title": "Mairimashita! Iruma-kun",
-  "description": "Fourteen-year-old Suzuki Iruma had just been abandoned and sold to a demon by his irresponsible parents! However, much to his surprise, he finds himself now living with the demon as his adopted grandson. He's then enrolled into a school where his doting "demon" grandfather, Sullivan, works as the principal. Thus begins the cowardly Iruma-kun's extraordinary school life among the otherworldly, meeting many colorful faces, taking on daunting challenges, and facing his true self as he rises to become someone great. Cozy magical slice of life with occasional urban terrorism.",
-  "artist": "Osamu Nishi",
-  "author": "Osamu Nishi",
-  "cover": "https://files.catbox.moe/yypq2x.jpg",
-  "chapters": {
-    "197": {
-      "title": "Deviler’s Eve",
-      "volume": "23",
-      "groups": {
-        "Misfits Scans": "/proxy/api/imgur/chapter/k0nSdFq/"
-      },
-      "last_updated": "1616712916"
-    },
-    "198": {
-      "title": "The Misfits’ Wild Party",
-      "volume": "23",
-      "groups": {
-        "Misfits Scans": "/proxy/api/imgur/chapter/h3pIGkO/"
-      },
-      "last_updated": "1617317716"
-    },
-    "199": {
-      "title": "Servant of the Netherworld",
-      "volume": "23",
-      "groups": {
-        "Misfits Scans": "/proxy/api/imgur/chapter/qwNFSSA/"
-      },
-      "last_updated": "1617922516"
-    },
-    "200": {
-      "title": "A Gathering of Heroes",
-      "volume": "23",
-      "groups": {
-        "Misfits Scans": "/proxy/api/imgur/chapter/ftXDIda/"
-      },
-      "last_updated": "1618527316"
-    },
-    "201": {
-      "title": "The Three Great’s Grandsons’ Meeting",
-      "volume": "23",
-      "groups": {
-        "Misfits Scans": "/proxy/api/imgur/chapter/vnkDGp3/"
-      },
-      "last_updated": "1619132116"
-    },
-    "202": {
-      "title": "Chapter 202",
-      "volume": "23",
-      "groups": {
-        "Misfits Scans": "/proxy/api/imgur/chapter/6X5HPT2/"
-      },
-      "last_updated": "1620341716"
-    },
-    "203": {
-      "title": "Food For The Young",
-      "volume": "23",
-      "groups": {
-        "Misfits Scans": "/proxy/api/imgur/chapter/SAPjK3C/"
-      },
-      "last_updated": "1621032916"
-    },
-    "204": {
-      "title": "Beneath the Sunlight",
-      "volume": "23",
-      "groups": {
-        "Misfits Scans": "/proxy/api/imgur/chapter/bSBXhfb/"
-      },
-      "last_updated": "1621637716"
-    },
-    "205": {
-      "title": "Speaking of the Demon King",
-      "volume": "24",
-      "groups": {
-        "Misfits Scans": "/proxy/api/imgur/chapter/EChs5PS/"
-      },
-      "last_updated": "1622242516"
-    },
-    "206": {
-      "title": "The Golden Lions",
-      "volume": "24",
-      "groups": {
-        "Misfits Scans": "/proxy/api/imgur/chapter/KTyJvQN/"
-      },
-      "last_updated": "1622674516"
-    },
-    "207": {
-      "title": "The Path to Demon King",
-      "volume": "24",
-      "groups": {
-        "Misfits Scans": "/proxy/api/imgur/chapter/JuTN9v1/"
-      },
-      "last_updated": "1623365716"
-    },
-    "208": {
-      "title": "Infiltrating the Teachers’ Dorm!",
-      "volume": "24",
-      "groups": {
-        "Misfits Scans": "/proxy/api/imgur/chapter/GTnvHpI/"
-      },
-      "last_updated": "1623884116"
-   },
-   "209": {
-      "title": "A New Member",
-      "volume": "24",
-      "groups": {
-        "Misfits Scans": "/proxy/api/imgur/chapter/F0MyQRG/"
-      },
-      "last_updated": "1624488916"
-    }
-  }
+	"title": "Mairimashita! Iruma-kun",
+	"description": "Fourteen-year-old Suzuki Iruma had just been abandoned and sold to a demon by his irresponsible parents! However, much to his surprise, he finds himself now living with the demon as his adopted grandson. He's then enrolled into a school where his doting demon grandfather, Sullivan, works as the principal. Thus begins the cowardly Iruma-kun's extraordinary school life among the otherworldly, meeting many colorful faces, taking on daunting challenges, and facing his true self as he rises to become someone great. \n Cozy magical slice of life with occasional urban terrorism.",
+	"artist": "Osamu Nishi",
+	"author": "Osamu Nishi",
+	"cover": "https://files.catbox.moe/yypq2x.jpg",
+	"chapters": {
+		"197": {
+			"title": "Deviler’s Eve",
+			"volume": "23",
+			"groups": {
+				"Misfits Scans": "/proxy/api/imgur/chapter/k0nSdFq/"
+			},
+			"last_updated": "1616712916"
+		},
+		"198": {
+			"title": "The Misfits’ Wild Party",
+			"volume": "23",
+			"groups": {
+				"Misfits Scans": "/proxy/api/imgur/chapter/h3pIGkO/"
+			},
+			"last_updated": "1617317716"
+		},
+		"199": {
+			"title": "Servant of the Netherworld",
+			"volume": "23",
+			"groups": {
+				"Misfits Scans": "/proxy/api/imgur/chapter/qwNFSSA/"
+			},
+			"last_updated": "1617922516"
+		},
+		"200": {
+			"title": "A Gathering of Heroes",
+			"volume": "23",
+			"groups": {
+				"Misfits Scans": "/proxy/api/imgur/chapter/ftXDIda/"
+			},
+			"last_updated": "1618527316"
+		},
+		"201": {
+			"title": "The Three Great’s Grandsons’ Meeting",
+			"volume": "23",
+			"groups": {
+				"Misfits Scans": "/proxy/api/imgur/chapter/vnkDGp3/"
+			},
+			"last_updated": "1619132116"
+		},
+		"202": {
+			"title": " ",
+			"volume": "23",
+			"groups": {
+				"Misfits Scans": "/proxy/api/imgur/chapter/6X5HPT2/"
+			},
+			"last_updated": "1620341716"
+		},
+		"203": {
+			"title": "Food For The Young",
+			"volume": "23",
+			"groups": {
+				"Misfits Scans": "/proxy/api/imgur/chapter/SAPjK3C/"
+			},
+			"last_updated": "1621032916"
+		},
+		"204": {
+			"title": "Beneath the Sunlight",
+			"volume": "23",
+			"groups": {
+				"Misfits Scans": "/proxy/api/imgur/chapter/bSBXhfb/"
+			},
+			"last_updated": "1621637716"
+		},
+		"205": {
+			"title": "Speaking of the Demon King",
+			"volume": "24",
+			"groups": {
+				"Misfits Scans": "/proxy/api/imgur/chapter/EChs5PS/"
+			},
+			"last_updated": "1622242516"
+		},
+		"206": {
+			"title": "The Golden Lions",
+			"volume": "24",
+			"groups": {
+				"Misfits Scans": "/proxy/api/imgur/chapter/KTyJvQN/"
+			},
+			"last_updated": "1622674516"
+		},
+		"207": {
+			"title": "The Path to Demon King",
+			"volume": "24",
+			"groups": {
+				"Misfits Scans": "/proxy/api/imgur/chapter/JuTN9v1/"
+			},
+			"last_updated": "1623365716"
+		},
+		"208": {
+			"title": "Infiltrating the Teachers’ Dorm!",
+			"volume": "24",
+			"groups": {
+				"Misfits Scans": "/proxy/api/imgur/chapter/GTnvHpI/"
+			},
+			"last_updated": "1623884116"
+		},
+		"209": {
+			"title": "A New Member",
+			"volume": "24",
+			"groups": {
+				"Misfits Scans": "/proxy/api/imgur/chapter/F0MyQRG/"
+			},
+			"last_updated": "1624488916"
+		}
+	}
 }
